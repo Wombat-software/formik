@@ -1,5 +1,12 @@
 # formik-native
 
+## 2.1.24
+
+### Patch Changes
+
+- Updated dependencies [[`9c47dc2`](https://github.com/Wombat-software/formik/commit/9c47dc2bc434c90c7692db72fb0979e76edea70d)]:
+  - formik@2.5.0
+
 ## 2.1.23
 
 ### Patch Changes

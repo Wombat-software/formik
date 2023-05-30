@@ -1,5 +1,11 @@
 # formik
 
+## 2.5.0
+
+### Minor Changes
+
+- [`9c47dc2`](https://github.com/Wombat-software/formik/commit/9c47dc2bc434c90c7692db72fb0979e76edea70d) Thanks [@GarrettCulos](https://github.com/GarrettCulos)! - Add skip validation aption
+
 ## 2.4.0
 
 ### Minor Changes
