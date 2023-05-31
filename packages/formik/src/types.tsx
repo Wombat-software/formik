@@ -128,7 +128,7 @@ export interface FormikHelpers<Values> {
  */
 export interface FormikHandlers {
   /** Form submit handler */
-  handleSubmit: (e?: React.FormEvent<HTMLFormElement>) => void;
+  handleSubmit: (e?: React.FormEvent<HTMLFormElement>, options?: { skipValidation?: boolean }) => void;
   /** Reset form event handler  */
   handleReset: (e?: React.SyntheticEvent<any>) => void;
   handleBlur: {
